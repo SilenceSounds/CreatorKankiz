@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690635017252",
+    "project_id": "kankiz",
+    "storage_bucket": "kankiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690635017252:android:39d6328b0c161e3efa1cb1",
+        "android_client_info": {
+          "package_name": "com.example.ccreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690635017252-imfs5sedhsjic4css1hc9d9d64n0ml78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACr15nNWRIWynJWvuNCUOG6enxq_V1w7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690635017252-imfs5sedhsjic4css1hc9d9d64n0ml78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
